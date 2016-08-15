@@ -49,7 +49,7 @@ group :development, :test do
   gem 'spring'
 end
 
-gem 'omniauth-facebook'
+gem 'omniauth-facebook', '1.4.0'
 
 gem 'omniauth-twitter'
 
