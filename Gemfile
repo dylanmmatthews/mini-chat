@@ -52,3 +52,8 @@ end
 gem 'omniauth-facebook'
 
 gem 'omniauth-twitter'
+
+gem 'bootstrap-sass'
+
+#make the page asynchronous
+gem 'jquery-turbolinks'
